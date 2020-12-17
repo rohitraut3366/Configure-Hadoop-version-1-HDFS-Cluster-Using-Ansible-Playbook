@@ -1,0 +1,7 @@
+namenode_fs_directory: "/nn"
+datanode_directory: "/dn"
+service_port: 9001
+jdk_software_rpm: "jdk-8u171-linux-x64.rpm"
+hadoop_software_rpm: "hadoop-1.2.1-1.x86_64.rpm"
+jdk_software_location: "./jdk-8u171-linux-x64.rpm"
+hadoop_software_location: "./hadoop-1.2.1-1.x86_64.rpm"
